@@ -4,9 +4,4 @@
    <Age>33</Age>
    <Number_of_pets null="true" />
    <Future_desired_salary>1000</Future_desired_salary>
-</person><person>
-<FULL_NAME> Oleksandr O.M</FULL_NAME>
-<Age> 33</Age> 
-<Number_of_pets null="true"/>
-<Future_desired_salary>1000</Future_desired_salary>
 </person>
