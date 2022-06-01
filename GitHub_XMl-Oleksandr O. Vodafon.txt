@@ -2,7 +2,7 @@
 XML
  	21. Создать внешний репозиторий c названием XML.
 GitHub > Repos -> New -> XML
-https://github.com/Nevedimca/JSON
+https://github.com/Nevedimca/XML
 
 	22. Клонировать репозиторий XML на локальный компьютер.
 Oleksandrs-iMac:Terminal macssd$ git clone git@github.com:Nevedimca/XML.git
@@ -35,6 +35,8 @@ To github.com:Nevedimca/XML.git
    125659a..e43db04  main -> main
 
  	27. Отредактировать содержание файла “new.xml” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате XML.
+
+vim new.xml
 
 <?xml version="1.0" encoding="UTF-8"?>
 <person>
